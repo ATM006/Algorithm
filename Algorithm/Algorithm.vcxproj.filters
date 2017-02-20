@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\动态规划">
+      <UniqueIdentifier>{11c088a3-d92b-46c1-938c-995d89772cbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\递归分治">
+      <UniqueIdentifier>{76bf1f9a-6499-40d3-834b-5dd57e5e4c79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="%28未完%29最大子段和.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵连乘.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>源文件\递归分治</Filter>
+    </ClCompile>
+    <ClCompile Include="归并排序.cpp">
+      <Filter>源文件\递归分治</Filter>
+    </ClCompile>
+    <ClCompile Include="棋盘覆盖.cpp">
+      <Filter>源文件\递归分治</Filter>
+    </ClCompile>
+    <ClCompile Include="线性时间选择.cpp">
+      <Filter>源文件\递归分治</Filter>
+    </ClCompile>
+    <ClCompile Include="最接近点对1.cpp">
+      <Filter>源文件\递归分治</Filter>
+    </ClCompile>
+    <ClCompile Include="最接近点对2.cpp">
+      <Filter>源文件\递归分治</Filter>
+    </ClCompile>
+    <ClCompile Include="0-1背包问题.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
